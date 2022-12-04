@@ -5,8 +5,10 @@
   "main": "src/task1.ts",
   "scripts": {
     "build": "npx tsc",
-    "task1": "npx tsc && node build/task1.js",
-    "task1part2": "npx tsc && node build/task1part2.js"
+    "task1": "npx ts-node src/task1.ts",
+    "task1part2": "npx ts-node src/task1part2.ts",
+    "task2": "npx ts-node src/task2.ts",
+    "task2part2": "npx ts-node src/task2part2.ts"
   },
   "keywords": [],
   "author": "Michał \"Bopke\" Kubik",
