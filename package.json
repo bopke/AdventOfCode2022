@@ -12,7 +12,9 @@
     "task3": "npx ts-node src/task3.ts",
     "task3part2": "npx ts-node src/task3part2.ts",
     "task4": "npx ts-node src/task4.ts",
-    "task4part2": "npx ts-node src/task4part2.ts"
+    "task4part2": "npx ts-node src/task4part2.ts",
+    "task5": "npx ts-node src/task5.ts",
+    "task5part2": "npx ts-node src/task5part2.ts"
   },
   "keywords": [],
   "author": "Michał \"Bopke\" Kubik",
